@@ -66,6 +66,9 @@
 ###
 
 <div align="center">
+  <img src="https://leetcode.card.workers.dev/lucasdafonsecadepaula?theme=dark&font=baloo&extension=activity" height="220" alt="streak leetcode graph"  />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=lucasdafonsecadepaula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
